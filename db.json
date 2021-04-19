@@ -1,14 +1,14 @@
  {
  "emails": [
           {
-            "isMainElectronicContact": 1,
+            "mainElectronicContact": true,
             "emailType": "Profissional",
             "emailAddress": "36328356838@36328356838.com"
           }
         ],
         "phones": [
           {
-            "isMainContactPhone": 1,
+            "mainContactPhone": true,
             "ddi": "55",
             "areaCode": "11",
             "areaCountry": null,
